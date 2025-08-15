@@ -3,5 +3,5 @@
 Meu nome é **Ana Laura**
 
 - Sou estudante da Alura 
-- Estou me desenvolvendo na limguagem JavaScript
+- Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização
